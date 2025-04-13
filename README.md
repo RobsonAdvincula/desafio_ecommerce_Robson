@@ -2,13 +2,13 @@
 
 # 🛒 Sistema de E-commerce – Projeto de Banco de Dados
 
-## 📌 Descrição Geral
+##  Descrição Geral
 
 Este projeto simula o backend de um sistema de e-commerce, com modelagem lógica refinada para contemplar **clientes pessoa física e jurídica**, múltiplos **métodos de pagamento**, controle de **entregas com status e rastreamento**, além da gestão de **produtos, estoques, fornecedores e pedidos**.
 
 ---
 
-## 🧠 Modelo Lógico
+## Modelo Lógico
 
 O modelo lógico implementa:
 
@@ -22,7 +22,7 @@ O modelo lógico implementa:
 - **ENTREGA** com rastreio
 
 
-## 🧪 Consultas Incluídas
+## Consultas Incluídas
 
 - `SELECT`, `WHERE`
 - Atributos derivados
