@@ -1,6 +1,6 @@
 # desafio_ecommerce_Robson
 
-# 🛒 Sistema de E-commerce – Projeto de Banco de Dados
+# Sistema de E-commerce – Projeto de Banco de Dados
 
 ##  Descrição Geral
 
